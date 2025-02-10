@@ -7,7 +7,7 @@
 # license agreement from NVIDIA CORPORATION is strictly prohibited.
 
 
-from Utils import *
+from FoundationPose.Utils import *
 from datareader import *
 import itertools
 from learning.training.predict_score import *
